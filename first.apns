@@ -1,0 +1,8 @@
+{
+  "Simulator Target Bundle": "kh.com.kosign.SwiftyPushBell",
+  "aps": {
+    "alert": "មាសស្នេហ៏កុំព្រួយណាអូន",
+    "sound": "default",
+    "badge": 69
+  }
+}
